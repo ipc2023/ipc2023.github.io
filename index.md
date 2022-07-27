@@ -20,6 +20,14 @@ Organizers:
  - [Florian Pommerening](http://ai.cs.unibas.ch/people/pommeren/index.html) (University of Basel)
 
 
+## Learning Tracks
+Website: [https://ipc2023-learning.github.io](https://ipc2023-learning.github.io)
+
+Organizers:
+ - [Jendrik Seipp](https://jendrikseipp.com) (Linköping University)
+ - [Javier Segovia-Aguas](https://jsego.github.io/) (Universitat Pompeu Fabra)
+
+
 ## Probabilistic Tracks
 Website: [https://ataitler.github.io/IPPC2023](https://ataitler.github.io/IPPC2023)
 
