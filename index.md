@@ -36,4 +36,12 @@ Organizers:
  - [Scott Sanner](https://www.mie.utoronto.ca/faculty_staff/sanner) (University of Toronto)
 
 
+## Numeric Tracks
+Website: [https://ipc2023-numeric.github.io](https://ipc2023-numeric.github.io)
+
+Organizers:
+ - [Joan Espasa Arxer](https://joanespasa.github.io) (University of St Andrews)
+ - [Enrico Scala](https://sites.google.com/view/enricoscalashomepage/) (University of Brescia)
+
+
 **More tracks comming soon**
