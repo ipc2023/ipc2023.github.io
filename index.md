@@ -44,4 +44,10 @@ Organizers:
  - [Enrico Scala](https://sites.google.com/view/enricoscalashomepage/) (University of Brescia)
 
 
-**More tracks comming soon**
+## HTN Tracks
+Website: [https://ipc2023-htn.github.io](https://ipc2023-numeric.github.io)
+
+Organizers
+ - [Ron Alford](https://www.volus.net) (MITRE)
+ - [Dominik Schreiber](https://www.dominikschreiber.de/) (Karlsruhe Institute of Technology)
+ - [Gregor Behnke](https://staff.fnwi.uva.nl/g.behnke/) (University of Amsterdam)
