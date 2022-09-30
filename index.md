@@ -45,7 +45,7 @@ Organizers:
 
 
 ## HTN Tracks
-Website: [https://ipc2023-htn.github.io](https://ipc2023-numeric.github.io)
+Website: [https://ipc2023-htn.github.io](https://ipc2023-htn.github.io)
 
 Organizers
  - [Ron Alford](https://www.volus.net) (MITRE)
